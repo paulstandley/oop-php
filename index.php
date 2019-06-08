@@ -1,3 +1,8 @@
+<?php
+  include 'includes/parentclass.inc.php';
+  include 'includes/newclass.inc.php';
+  $object = new NewClass;
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +16,10 @@
   <header>
     <h1>OOP PHP</h1>
   </header>
-  
+  <?php 
+    echo $object->name();
+    echo $object->info;
+    echo $object->dar;
+  ?>
 </body>
 </html>
