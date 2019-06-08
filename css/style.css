@@ -4,6 +4,8 @@
 }
 
 header > h1 {
+  padding: 1rem;
+  font-size: 2.2rem;
   text-align: center;
   background: black;
   color: white;
@@ -11,5 +13,6 @@ header > h1 {
 
 .text {
   padding: 0.4rem;
+  font-size: 2rem;
   text-align: center;
 }
