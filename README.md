@@ -1,3 +1,5 @@
-# **OOP PHP Paul Standley**
+# **OOP PHP**
+
+## **Paul Standley**
 
 ![Profile Pick](img/profile.png)
