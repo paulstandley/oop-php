@@ -14,7 +14,7 @@
 </head>
 <body>
   <header>
-    <h1>OOP PHP</h1>
+    <h1><img src="../img/pro-icon-1.png" alt="tagname" height="22">  OOP PHP</h1>
   </header>
   <?php 
     echo $object->name();

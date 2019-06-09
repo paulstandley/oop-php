@@ -13,7 +13,7 @@
 </head>
 <body>
   <header class="header-class">
-    <h1>Properties and Methods</h1>
+    <h1><img src="../img/pro-icon-1.png" alt="tagname" height="22">  Properties and Methods</h1>
   </header>
   <?php 
     $person1 = new Person();

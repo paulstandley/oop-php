@@ -11,8 +11,16 @@ header > h1 {
   color: white;
 }
 
+heder > h1 > img {
+  height: 10px;
+}
+
 .text {
   padding: 0.4rem;
   font-size: 2rem;
   text-align: center;
+}
+
+body > h2.text > strong {
+  color: red;
 }
