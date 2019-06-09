@@ -12,7 +12,7 @@
 </head>
 <body>
   <header class="header-class">
-<h1><img src="../img/pro-icon-1.png" alt="tagname" height="22">  Constuctors and Destucors</h1>
+<h1><img src="../img/pro-icon-1.png" alt="tagname" height="22">  Constuctors and Destrutcors</h1>
   </header>
   <?php 
     $person1 = new Person("Paz", "blue", 46);
@@ -22,7 +22,14 @@
     echo "<h2 class='text'>Iam ".$person2->name." with ".$person2->eyeColor." eyes and iam ".$person2->age." years old :)</h2>";
   
     $person2->setName("Jimmy");
+
     echo "<h2 class='text'>Iam <strong>".$person2->name."</strong> with <strong>".$person2->eyeColor."</strong> eyes and iam <strong>".$person2->age."</strong> years old :)</h2>";
+
+    echo "<h2 class='text'>Hello <strong>".$person1->getName()."</strong> this is <strong>".$person2->getName()."</strong></h2><hr>";
+    // distroy an object
+    //$object = new Person();
+    //unset($object);
+
   ?>
 </body>
 </html>
