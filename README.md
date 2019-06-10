@@ -11,3 +11,5 @@ __1__ **PHP** CLASS
 __2__ **PHP** PROPERTIES AND METHODS
 
 __3__ **PHP** CONSTUCTORS AND DESTUCTORS
+
+__4__ **PHP** Static Properties And Methods
