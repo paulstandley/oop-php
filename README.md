@@ -13,3 +13,7 @@ __2__ **PHP** PROPERTIES AND METHODS
 __3__ **PHP** CONSTUCTORS AND DESTUCTORS
 
 __4__ **PHP** Static Properties And Methods
+
+__5__ **PHP**  Initialise Object Properties
+
+[Toutube](https://www.youtube.com/watch?v=OTSgHCyafSM&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=9)
