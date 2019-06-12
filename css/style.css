@@ -24,3 +24,9 @@ heder > h1 > img {
 body > h2.text > strong {
   color: red;
 }
+
+body {
+  padding: 1rem;
+  margin: 1rem;
+  background-color: aqua;
+}
