@@ -1,10 +1,10 @@
-# **OOP PHP**
-
-![Icon](img/pro-icon-1.png)
-
-## **Paul Standley**
+# ![Icon](img/pro-icon-1.png) **__Paul Standley__**
 
 ![Profile Pick](img/profile.png)
+
+---
+
+## OOP PHP
 
 __1__ **PHP** Class
 
@@ -17,5 +17,11 @@ __4__ **PHP** Static Properties And Methods
 __5__ **PHP**  Initialise Object Properties
 
 __6__ **PHP** Simple Calculator
+
+---
+
+## Connect To A Database
+
+__1__ **PHP MYSQLI OOP**
 
 [Toutube](https://www.youtube.com/watch?v=OTSgHCyafSM&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=9)
