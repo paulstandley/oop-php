@@ -29,11 +29,15 @@ __1__ **PHP MYSQLI OOP**
 ## MYSQL
 
 ```mysql
+
 CREATE TABLE users (
   idU int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
   uid TINYTEXT NOT NULL,
   pwd LONGTEXT NOT NULL  
 );
+
+INSERT INTO `users` ( `uid`, `pwd`) VALUES ( 'pielo2', 'test1234');
+
 ```
 
 [Toutube](https://www.youtube.com/watch?v=OTSgHCyafSM&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=9)

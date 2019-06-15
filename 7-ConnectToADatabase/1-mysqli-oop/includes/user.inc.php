@@ -9,7 +9,7 @@
       $numRows = $result->num_rows;
 
       if($numRows > 0) {
-        while($row = $results->fetch_assoc()) {
+        while($row = $result->fetch_assoc()) {
           $data[] = $row;
         }
         return $data;
