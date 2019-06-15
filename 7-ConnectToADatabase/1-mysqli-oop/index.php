@@ -1,3 +1,8 @@
+<?php 
+  include "includes/dbh.inc.php";
+  include "includes/user.inc.php";
+  include "includes/viewuser.inc.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,5 +16,9 @@
   <header class="header-class">
     <h1><img src="../../img/pro-icon-1.png" alt="tagname" height="22">   MYSQLI OOP PHP</h1>
   </header>
+  <?php
+    $users = new ViewUser();
+    $users->showAllUsers();
+  ?>
 </body>
 </html>
