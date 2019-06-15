@@ -24,6 +24,8 @@ __6__ **PHP** Simple Calculator
 
 __1__ **PHP MYSQLI OOP**
 
+__2__ **PDO OOP PHP**
+
 ---
 
 ## MYSQL
